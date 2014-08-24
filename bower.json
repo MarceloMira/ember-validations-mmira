@@ -1,0 +1,25 @@
+{
+  "name": "ember-validations-mmira",
+  "main": "ember-validations-mmira.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/MarceloMira/ember-validations-mmira",
+  "authors": [
+    "Marcelo Mira <marcelo.ariel.mira@gmail.com>"
+  ],
+  "description": "I didn't wanted to fork the whole original project, instead, I added specific changes for my own projects.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "ember-validations"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
