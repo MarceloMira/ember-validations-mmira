@@ -7,14 +7,11 @@
     "Marcelo Mira <marcelo.ariel.mira@gmail.com>"
   ],
   "description": "I didn't wanted to fork the whole original project, instead, I added specific changes for my own projects.",
-  "moduleType": [
-    "amd"
-  ],
   "keywords": [
     "ember-validations"
   ],
   "license": "MIT",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
